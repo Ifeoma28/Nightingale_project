@@ -11,7 +11,7 @@ that British soldiers were dying from preventable disease, not battle
 wounds — directly changing government policy and saving thousands of lives.
 
 ## 📊 What The Charts Show
-![Nightingale Pix](https://github.com/Ifeoma28/Foodie-fi/blob/4cf085d4ce31b30dec1b4ec94d1d9fb7a4ab9b4b/foodie-fi%20dashboard%20details.png
+![Nightingale Pix](https://github.com/Ifeoma28/Nightingale_project/blob/4935f003ee10ef21c17e9b8faca1a19d69f376ac/nightingale%20pix.png)
 - **LEFT chart (April 1855 — March 1856):** After sanitary reforms — 
   dramatically smaller wedges proving the reforms worked
 - **RIGHT chart (April 1854 — March 1855):** Before reforms — massive 
